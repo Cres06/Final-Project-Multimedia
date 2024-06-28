@@ -5,10 +5,10 @@
   From the homepage, you will see the navigation header where my logo, Welcome, My Blogs, About are visible. These are clickable and can lead you to another page, or navigate you to some feature within the homepage. The homepage only represents the front of the website blog, you can click the buttons avaible and Blogs such as Foods, Destination, and Activities to navigate/lead you to another page of our Blogs. 
 
 # Foods Page
-  I have presented only my 5 most favorite foods for I have not visited many places for 22 years, and when I have the chance only the common recipes are available along the way. 
+  I have presented only my 5 most favorite foods for I have not visited many places for 22 years, and when I have the chance only the common recipes are available along the way. You can go back to the "Home" button in the header so you will be navigated back to the homepage.
 
 # Destination Page
-  From this page, you can see the places I have been. Places that I always go to, and wish to travel again next time/soon. 
+  From this page, you can see the places I have been. Places that I always go to, and wish to travel again next time/soon. Same goes to Foods Page, just click the "Home" button to be navigated to Home Page
 
 # Activities Page
   From this page, yo can see what I am mostly/commonly do with my life/daily life. I go to work, do the schoolworks, go to church if have time, and do some other activities. I presented my hobbies and activities I am always doing/facing. 
